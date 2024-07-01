@@ -1,0 +1,105 @@
+{
+    "aboutMeInfo":"I Am a dynamic individual, characterized by a blend of curiosity, creativity, and compassion. My insatiable thirst for knowledge propels Me to dive into diverse subjects and engage with complex ideas, constantly seeking to expand my understanding of the world. With an adventurous spirit, I eagerly embrace new challenges and opportunities, relishing in the journey of discovery and growth. My creative impulses manifest in various forms, from artistic endeavors to innovative problem-solving, reflecting my innate ability to think outside the box and craft imaginative solutions. Beneath it all lies a deep-rooted sense of empathy and a genuine desire to make a positive impact, whether through lending a listening ear to those in need or actively contributing to causes I believe in. My multifaceted personality is a testament to my resilience, adaptability, and unwavering commitment to living life to its fullest potential.",
+
+    "programmingSkills":[
+        {
+            "name":"HTML",
+            "description": "I am quite comfortable in working with HTML. I have been learning HTML since grade 10"
+        },
+        {
+            "name":"CSS",
+            "description": "I have been working with CSS since grade 10, recently I feel as if I am developing a better understanding of it, however there is much more I'd like to learn"
+        },
+        {
+            "name":"Bootsrap",
+            "description": "I have only recently started using Bootstrap. I have found a good way around it and I find it extremely useful"
+        },
+        {
+            "name":"Dephi",
+            "description": "Delphi was the first programming language that I learned. I believe it is extremely tedious to code in delphi, however I apprieciate starting with Delphi because it's in turn easier to code other languages"
+        },
+        {
+            "name":"Javascript",
+            "description": "I started learning Javascript in grade 10, so I feel very confident when coding in Javascript"
+        },
+        {
+            "name":".XAML",
+            "description": "I started learning Javascript in grade 10, so I feel very confident when coding in Javascript"
+        },
+        {
+            "name":"C#",
+            "description": "I have worked on many projects involving C#. I have a good understanding of C# and I feel confident in my ability to code in C#"
+        }
+    ],
+    "Talents and Hobbies":[
+        {
+            "name":"Video Editing",
+            "description": "I enjoy video editing. I am self taught and it has become one of my passions. I feel as if I am naturally gifted in editing videos"
+        },
+        {
+            "name":"Gaming",
+            "description": "I enjoy playing games during some of my free time. I grew up with video games and I've always been enjoying video games"
+        },
+        {
+            "name":"Gym",
+            "description": "I have picked up gyming over the last few years and I feel as if it is something that I will never be able to give up on. A heathy body-A healthy mind"
+        },
+        {
+            "name":"YouTube",
+            "description": "I have a Youtube channel that I am looking to upload more videos to soon. It is one of my dreams to provide good content on YouTube"
+        },
+        {
+            "name":"TikTok",
+            "description": "I have dove into the content creation on TikTok. I enjoy creating media and enjoy making content that is ddifferent"
+        }
+    ],
+    "projects":[
+        {
+            "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/wackyVeg.png",
+            "name":"Wacky Veg Bootsrap Exercise"
+        },
+        {
+            "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/wedEx.png",
+            "name":"CSS and HTML Exercise"
+        },
+        {
+            "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/calculatorSS.png ",
+            "name":"Calculator"
+        },
+        {
+            "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/keyboardSS.png",
+            "name":"Keyboard"
+        },
+        {
+            "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/huluClone.png",
+            "name":"Clone of Hulu website"
+        }
+    ],
+    "testimonialInfo":[
+        {
+            "name":"Mahmud",
+            "description":"Aneeq's unwavering dedication to excellence and his collaborative spirit makes him indispensable in every project he undertakes. Aneeq is a valuable asset to any team .He works well in fast paced environments and constantly delivering brilliant results.",
+            "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/mahmud.png"
+        },
+        {
+            "name":"Zubayr",
+            "description":"Aneeq is a dedicated professional known for his attention to detail and commitment to excellence. With strong communication skills and a passion for problem-solving, he consistently drives results and ensures project success. A valuable asset to any team, Aneeq's collaborative nature and innovative thinking make him a trusted partner in achieving goals.",
+            "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/zubayr.png"
+        },
+        {
+            "name":"Caleb",
+            "description":"I am grateful to call Aneeq a close friend. He has great work ethic, analytical and problem solving skills. He thrives in collaborative settings as well as when he works on his own. He is kind, generous and hilarious. Aneeq would be a valuable asset to any organization.",
+            "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/ockers.png"
+        },
+        {
+            "name":"Mohammed",
+            "description":"Aneeq embodies excellence with his meticulous attention to detail and collaborative spirit. His innovative approach and dedication consistently yield exceptional results. Working alongside Aneeq ensures not just success, but surpassing expectations.",
+            "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/mohammed.png"
+        },
+        {
+            "name":"Matthew",
+            "description":"Aneeq's blend of precision and collaboration consistently delivers exceptional results, redefining success at every turn.",
+            "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/matthew.png"
+        }
+    ]
+}
