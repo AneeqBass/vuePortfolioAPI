@@ -4,34 +4,41 @@
     "programmingSkills":[
         {
             "name":"HTML",
+            "imageUrl":"https://aneeqbass.github.io/hostedImages_portfolio/images/htmlIcon.png",
             "description": "I am quite comfortable in working with HTML. I have been learning HTML since grade 10"
         },
         {
             "name":"CSS",
+            "imageUrl":"https://aneeqbass.github.io/hostedImages_portfolio/images/cssIcon.png",
             "description": "I have been working with CSS since grade 10, recently I feel as if I am developing a better understanding of it, however there is much more I'd like to learn"
         },
         {
             "name":"Bootsrap",
+            "imageUrl":"https://aneeqbass.github.io/hostedImages_portfolio/images/bootstrapIcon.png",
             "description": "I have only recently started using Bootstrap. I have found a good way around it and I find it extremely useful"
         },
         {
             "name":"Dephi",
+            "imageUrl":"https://aneeqbass.github.io/hostedImages_portfolio/images/delphiIcon.png",
             "description": "Delphi was the first programming language that I learned. I believe it is extremely tedious to code in delphi, however I apprieciate starting with Delphi because it's in turn easier to code other languages"
         },
         {
             "name":"Javascript",
+            "imageUrl":"https://aneeqbass.github.io/hostedImages_portfolio/images/javascriptIcon.png",
             "description": "I started learning Javascript in grade 10, so I feel very confident when coding in Javascript"
         },
         {
             "name":".XAML",
+            "imageUrl":"https://aneeqbass.github.io/hostedImages_portfolio/images/csharpIcon.png",
             "description": "I started learning Javascript in grade 10, so I feel very confident when coding in Javascript"
         },
         {
             "name":"C#",
+            "imageUrl":"https://aneeqbass.github.io/hostedImages_portfolio/images/xamlIcon.png",
             "description": "I have worked on many projects involving C#. I have a good understanding of C# and I feel confident in my ability to code in C#"
         }
     ],
-    "Talents and Hobbies":[
+    "talentsHobbies":[
         {
             "name":"Video Editing",
             "description": "I enjoy video editing. I am self taught and it has become one of my passions. I feel as if I am naturally gifted in editing videos"
