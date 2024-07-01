@@ -41,22 +41,27 @@
     "talentsHobbies":[
         {
             "name":"Video Editing",
+            "imageUrl":"https://aneeqbass.github.io/hostedImages_portfolio/images/davinci.png",
             "description": "I enjoy video editing. I am self taught and it has become one of my passions. I feel as if I am naturally gifted in editing videos"
         },
         {
             "name":"Gaming",
+            "imageUrl":"https://aneeqbass.github.io/hostedImages_portfolio/images/gaming.jpg",
             "description": "I enjoy playing games during some of my free time. I grew up with video games and I've always been enjoying video games"
         },
         {
             "name":"Gym",
+            "imageUrl":"https://aneeqbass.github.io/hostedImages_portfolio/images/gym.jpg",
             "description": "I have picked up gyming over the last few years and I feel as if it is something that I will never be able to give up on. A heathy body-A healthy mind"
         },
         {
             "name":"YouTube",
+            "imageUrl":"https://aneeqbass.github.io/hostedImages_portfolio/images/youtubeIcon.png",
             "description": "I have a Youtube channel that I am looking to upload more videos to soon. It is one of my dreams to provide good content on YouTube"
         },
         {
             "name":"TikTok",
+            "imageUrl":"https://aneeqbass.github.io/hostedImages_portfolio/images/tiktok.jpg",
             "description": "I have dove into the content creation on TikTok. I enjoy creating media and enjoy making content that is ddifferent"
         }
     ],
