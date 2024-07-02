@@ -1,6 +1,9 @@
 {
-    "aboutMeInfo":"I Am a dynamic individual, characterized by a blend of curiosity, creativity, and compassion. My insatiable thirst for knowledge propels Me to dive into diverse subjects and engage with complex ideas, constantly seeking to expand my understanding of the world. With an adventurous spirit, I eagerly embrace new challenges and opportunities, relishing in the journey of discovery and growth. My creative impulses manifest in various forms, from artistic endeavors to innovative problem-solving, reflecting my innate ability to think outside the box and craft imaginative solutions. Beneath it all lies a deep-rooted sense of empathy and a genuine desire to make a positive impact, whether through lending a listening ear to those in need or actively contributing to causes I believe in. My multifaceted personality is a testament to my resilience, adaptability, and unwavering commitment to living life to its fullest potential.",
-    "aboutMeInfoPic":"https://aneeqbass.github.io/hostedImages_portfolio/images/portrait2.jpg",
+"aboutMeInfo":
+        {
+            "info":"I Am a dynamic individual, characterized by a blend of curiosity, creativity, and compassion. My insatiable thirst for knowledge propels Me to dive into diverse subjects and engage with complex ideas, constantly seeking to expand my understanding of the world. With an adventurous spirit, I eagerly embrace new challenges and opportunities, relishing in the journey of discovery and growth. My creative impulses manifest in various forms, from artistic endeavors to innovative problem-solving, reflecting my innate ability to think outside the box and craft imaginative solutions. Beneath it all lies a deep-rooted sense of empathy and a genuine desire to make a positive impact, whether through lending a listening ear to those in need or actively contributing to causes I believe in. My multifaceted personality is a testament to my resilience, adaptability, and unwavering commitment to living life to its fullest potential.",
+            "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/portrait2.jpg"
+        },
 
     "programmingSkills":[
         {
