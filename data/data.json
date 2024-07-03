@@ -1,11 +1,9 @@
 {
-"aboutMeInfo":
-        {
+"aboutMeInfo":{
             "info":"I Am a dynamic individual, characterized by a blend of curiosity, creativity, and compassion. My insatiable thirst for knowledge propels Me to dive into diverse subjects and engage with complex ideas, constantly seeking to expand my understanding of the world. With an adventurous spirit, I eagerly embrace new challenges and opportunities, relishing in the journey of discovery and growth. My creative impulses manifest in various forms, from artistic endeavors to innovative problem-solving, reflecting my innate ability to think outside the box and craft imaginative solutions. Beneath it all lies a deep-rooted sense of empathy and a genuine desire to make a positive impact, whether through lending a listening ear to those in need or actively contributing to causes I believe in. My multifaceted personality is a testament to my resilience, adaptability, and unwavering commitment to living life to its fullest potential.",
             "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/portrait2.jpg"
-        },
-
-    "programmingSkills":[
+    },
+"programmingSkills":[
         {
             "name":"HTML",
             "imageUrl":"https://aneeqbass.github.io/hostedImages_portfolio/images/htmlIcon.png",
@@ -42,7 +40,7 @@
             "description": "I have worked on many projects involving C#. I have a good understanding of C# and I feel confident in my ability to code in C#"
         }
     ],
-    "talentsHobbies":[
+"talentsHobbies":[
         {
             "name":"Video Editing",
             "imageUrl":"https://aneeqbass.github.io/hostedImages_portfolio/images/davinci.png",
@@ -69,7 +67,7 @@
             "description": "I have dove into the content creation on TikTok. I enjoy creating media and enjoy making content that is ddifferent"
         }
     ],
-    "projects":[
+"projects":[
         {
             "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/wackyVeg.png",
             "name":"Wacky Veg Bootsrap Exercise"
@@ -91,7 +89,7 @@
             "name":"Clone of Hulu website"
         }
     ],
-    "testimonialInfo":[
+"testimonialInfo":[
         {
             "name":"Mahmud",
             "description":"Aneeq's unwavering dedication to excellence and his collaborative spirit makes him indispensable in every project he undertakes. Aneeq is a valuable asset to any team .He works well in fast paced environments and constantly delivering brilliant results.",
@@ -117,5 +115,89 @@
             "description":"Aneeq's blend of precision and collaboration consistently delivers exceptional results, redefining success at every turn.",
             "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/matthew.png"
         }
-    ]
+    ],
+"educationInfo":[
+    {
+        "name":"Groote Schuur High School",
+        "description":"Aneeq's unwavering dedication to excellence and his collaborative spirit makes him indispensable in every project he undertakes. Aneeq is a valuable asset to any team .He works well in fast paced environments and constantly delivering brilliant results.",
+        "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/mahmud.png",
+        "time":"2016 - 2020"
+    },
+    {
+        "name":"CPUT",
+        "description":"Aneeq's unwavering dedication to excellence and his collaborative spirit makes him indispensable in every project he undertakes. Aneeq is a valuable asset to any team .He works well in fast paced environments and constantly delivering brilliant results.",
+        "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/mahmud.png",
+        "time":"2021- 2023"
+    },
+    {
+        "name":"Life Choices Academy",
+        "description":"Aneeq's unwavering dedication to excellence and his collaborative spirit makes him indispensable in every project he undertakes. Aneeq is a valuable asset to any team .He works well in fast paced environments and constantly delivering brilliant results.",
+        "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/mahmud.png",
+        "time":"April 2024 - Present"
+    }
+],
+"workExperienceInfo":[
+    {
+        "name":"Pekkish Food Hall",
+        "description":"Aneeq's unwavering dedication to excellence and his collaborative spirit makes him indispensable in every project he undertakes. Aneeq is a valuable asset to any team .He works well in fast paced environments and constantly delivering brilliant results.",
+        "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/mahmud.png",
+        "time":"2016 - 2020"
+    },
+    {
+        "name":"PekkishPOS",
+        "description":"Aneeq's unwavering dedication to excellence and his collaborative spirit makes him indispensable in every project he undertakes. Aneeq is a valuable asset to any team .He works well in fast paced environments and constantly delivering brilliant results.",
+        "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/mahmud.png",
+        "time":"2021- 2023"
+    },
+    {
+        "name":"PekkishPOS",
+        "description":"Aneeq's unwavering dedication to excellence and his collaborative spirit makes him indispensable in every project he undertakes. Aneeq is a valuable asset to any team .He works well in fast paced environments and constantly delivering brilliant results.",
+        "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/mahmud.png",
+        "time":"2021- 2023"
+    },
+    {
+        "name":"Disfruta",
+        "description":"Aneeq's unwavering dedication to excellence and his collaborative spirit makes him indispensable in every project he undertakes. Aneeq is a valuable asset to any team .He works well in fast paced environments and constantly delivering brilliant results.",
+        "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/mahmud.png",
+        "time":"April 2024 - Present"
+    },
+    {
+        "name":"Informaticos",
+        "description":"Aneeq's unwavering dedication to excellence and his collaborative spirit makes him indispensable in every project he undertakes. Aneeq is a valuable asset to any team .He works well in fast paced environments and constantly delivering brilliant results.",
+        "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/mahmud.png",
+        "time":"April 2024 - Present"
+    }
+],
+"goalsInfo":[
+    {
+        "name":"Pekkish Food Hall",
+        "description":"Aneeq's unwavering dedication to excellence and his collaborative spirit makes him indispensable in every project he undertakes. Aneeq is a valuable asset to any team .He works well in fast paced environments and constantly delivering brilliant results.",
+        "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/mahmud.png",
+        "time":"2016 - 2020"
+    },
+    {
+        "name":"PekkishPOS",
+        "description":"Aneeq's unwavering dedication to excellence and his collaborative spirit makes him indispensable in every project he undertakes. Aneeq is a valuable asset to any team .He works well in fast paced environments and constantly delivering brilliant results.",
+        "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/mahmud.png",
+        "time":"2021- 2023"
+    },
+    {
+        "name":"PekkishPOS",
+        "description":"Aneeq's unwavering dedication to excellence and his collaborative spirit makes him indispensable in every project he undertakes. Aneeq is a valuable asset to any team .He works well in fast paced environments and constantly delivering brilliant results.",
+        "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/mahmud.png",
+        "time":"2021- 2023"
+    },
+    {
+        "name":"Disfruta",
+        "description":"Aneeq's unwavering dedication to excellence and his collaborative spirit makes him indispensable in every project he undertakes. Aneeq is a valuable asset to any team .He works well in fast paced environments and constantly delivering brilliant results.",
+        "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/mahmud.png",
+        "time":"April 2024 - Present"
+    },
+    {
+        "name":"Informaticos",
+        "description":"Aneeq's unwavering dedication to excellence and his collaborative spirit makes him indispensable in every project he undertakes. Aneeq is a valuable asset to any team .He works well in fast paced environments and constantly delivering brilliant results.",
+        "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/mahmud.png",
+        "time":"April 2024 - Present"
+    }
+]
 }
