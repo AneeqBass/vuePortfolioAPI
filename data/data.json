@@ -70,23 +70,38 @@
 "projects":[
         {
             "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/wackyVeg.png",
-            "name":"Wacky Veg Bootsrap Exercise"
+            "name":"Wacky Veg Bootsrap Exercise",
+            "description": "This was a simple bootstrap exercise, where we had to place bootstrap elements into a HTML file",
+            "github":"",
+            "varcel":""
         },
         {
             "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/wedEx.png",
-            "name":"CSS and HTML Exercise"
+            "name":"CSS and HTML Exercise",
+            "description": "Using CSS and HTML, I've designed this page",
+            "github":"",
+            "varcel":""
         },
         {
             "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/calculatorSS.png ",
-            "name":"Calculator"
+            "name":"Calculator",
+            "description": "I used CSS HTML and Javascript when designing this simple calculator",
+            "github":"",
+            "varcel":""
         },
         {
             "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/keyboardSS.png",
-            "name":"Keyboard"
+            "name":"Keyboard",
+            "description": "I used CSS and HTML to design this simple Keyboard",
+            "github":"",
+            "varcel":""
         },
         {
             "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/huluClone.png",
-            "name":"Clone of Hulu website"
+            "name":"Clone of Hulu website",
+            "description": "This is a 1:1 clone of the Hulu website",
+            "github":"",
+            "varcel":""
         }
     ],
 "testimonialInfo":[
@@ -119,19 +134,19 @@
 "educationInfo":[
     {
         "name":"Groote Schuur High School",
-        "description":"Aneeq's unwavering dedication to excellence and his collaborative spirit makes him indispensable in every project he undertakes. Aneeq is a valuable asset to any team .He works well in fast paced environments and constantly delivering brilliant results.",
+        "description":"I went to Groote Schuur High School for my whole high school career. I took geography, physics, and IT as my choice subjects",
         "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/mahmud.png",
         "time":"2016 - 2020"
     },
     {
         "name":"CPUT",
-        "description":"Aneeq's unwavering dedication to excellence and his collaborative spirit makes him indispensable in every project he undertakes. Aneeq is a valuable asset to any team .He works well in fast paced environments and constantly delivering brilliant results.",
+        "description":"I done a one year course = HC:ICT-(Higher Certificate:Information Communication Technology),and made it 2 years into a 3 year course = Diploma:ICT.",
         "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/mahmud.png",
         "time":"2021- 2023"
     },
     {
         "name":"Life Choices Academy",
-        "description":"Aneeq's unwavering dedication to excellence and his collaborative spirit makes him indispensable in every project he undertakes. Aneeq is a valuable asset to any team .He works well in fast paced environments and constantly delivering brilliant results.",
+        "description":"I am currently a student at life choices",
         "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/mahmud.png",
         "time":"April 2024 - Present"
     }
@@ -139,27 +154,27 @@
 "workExperienceInfo":[
     {
         "name":"Pekkish Food Hall",
-        "description":"Aneeq's unwavering dedication to excellence and his collaborative spirit makes him indispensable in every project he undertakes. Aneeq is a valuable asset to any team .He works well in fast paced environments and constantly delivering brilliant results.",
+        "description":"I worked at a food hall/dark kitchen in town. I was a floor manager, where I learnt to speak to customers, lead individuals, and responsibility in a workplace",
         "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/mahmud.png",
-        "time":"2016 - 2020"
+        "time":"2022 - End of 2023"
     },
     {
         "name":"PekkishPOS",
-        "description":"Aneeq's unwavering dedication to excellence and his collaborative spirit makes him indispensable in every project he undertakes. Aneeq is a valuable asset to any team .He works well in fast paced environments and constantly delivering brilliant results.",
+        "description":"I've helped work on a new POS system PekkishPOS. PekkishPOS has a trail POS system already, but is in the proccess of fully upgrading the app to include more and new innovative user experiences. I am helping with the proccess part time",
         "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/mahmud.png",
-        "time":"2021- 2023"
+        "time":"End of 2023 - Present"
     },
     {
         "name":"Disfruta",
-        "description":"Aneeq's unwavering dedication to excellence and his collaborative spirit makes him indispensable in every project he undertakes. Aneeq is a valuable asset to any team .He works well in fast paced environments and constantly delivering brilliant results.",
+        "description":"Disfruta is a Touring company mainly focused on Sports Tours. I've helped with loading stock on the clothing website and added new sports tours. If there is new jobs to do for them I take the opportunity, also part time.",
         "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/mahmud.png",
-        "time":"April 2024 - Present"
+        "time":"2018 - Present"
     },
     {
         "name":"Informaticos",
-        "description":"Aneeq's unwavering dedication to excellence and his collaborative spirit makes him indispensable in every project he undertakes. Aneeq is a valuable asset to any team .He works well in fast paced environments and constantly delivering brilliant results.",
+        "description":"Informaticos does website development for companies. I've helped in my part time with website development, and been taught how to use wordpress through them",
         "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/mahmud.png",
-        "time":"April 2024 - Present"
+        "time":"2021 - Present"
     }
 ]
 }
