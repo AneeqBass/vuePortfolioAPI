@@ -72,36 +72,36 @@
             "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/wackyVeg.png",
             "name":"Wacky Veg Bootsrap Exercise",
             "description": "This was a simple bootstrap exercise, where we had to place bootstrap elements into a HTML file",
-            "github":"",
-            "varcel":""
+            "github":"https://github.com/AneeqBass",
+            "varcel":"https://github.com/AneeqBass"
         },
         {
             "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/wedEx.png",
             "name":"CSS and HTML Exercise",
             "description": "Using CSS and HTML, I've designed this page",
-            "github":"",
-            "varcel":""
+            "github":"https://github.com/AneeqBass",
+            "varcel":"https://github.com/AneeqBass"
         },
         {
             "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/calculatorSS.png ",
             "name":"Calculator",
             "description": "I used CSS HTML and Javascript when designing this simple calculator",
-            "github":"",
-            "varcel":""
+            "github":"https://github.com/AneeqBass",
+            "varcel":"https://github.com/AneeqBass"
         },
         {
             "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/keyboardSS.png",
             "name":"Keyboard",
             "description": "I used CSS and HTML to design this simple Keyboard",
-            "github":"",
-            "varcel":""
+            "github":"https://github.com/AneeqBass",
+            "varcel":"https://github.com/AneeqBass"
         },
         {
             "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/huluClone.png",
             "name":"Clone of Hulu website",
             "description": "This is a 1:1 clone of the Hulu website",
-            "github":"",
-            "varcel":""
+            "github":"https://github.com/AneeqBass",
+            "varcel":"https://github.com/AneeqBass"
         }
     ],
 "testimonialInfo":[
@@ -135,45 +135,51 @@
     {
         "name":"Groote Schuur High School",
         "description":"I went to Groote Schuur High School for my whole high school career. I took geography, physics, and IT as my choice subjects",
-        "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/mahmud.png",
+        "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/gshs.jpg",
         "time":"2016 - 2020"
     },
     {
         "name":"CPUT",
         "description":"I done a one year course = HC:ICT-(Higher Certificate:Information Communication Technology),and made it 2 years into a 3 year course = Diploma:ICT.",
-        "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/mahmud.png",
+        "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/cput.png",
         "time":"2021- 2023"
     },
     {
         "name":"Life Choices Academy",
         "description":"I am currently a student at life choices",
-        "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/mahmud.png",
+        "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/lifeChoices.png",
         "time":"April 2024 - Present"
     }
 ],
 "workExperienceInfo":[
     {
+        "name":"Pekkish",
+        "description":"I worked with orders on the Pekkish food ordering app. I called clients and customers, dealt with customer service, and order related issues/order management. This helped me develop my soft skills",
+        "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/pekkish.png",
+        "time":"2021 - End of 2023"
+    },
+    {
         "name":"Pekkish Food Hall",
         "description":"I worked at a food hall/dark kitchen in town. I was a floor manager, where I learnt to speak to customers, lead individuals, and responsibility in a workplace",
-        "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/mahmud.png",
+        "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/pekkishfoodhall.jpeg",
         "time":"2022 - End of 2023"
     },
     {
         "name":"PekkishPOS",
-        "description":"I've helped work on a new POS system PekkishPOS. PekkishPOS has a trail POS system already, but is in the proccess of fully upgrading the app to include more and new innovative user experiences. I am helping with the proccess part time",
-        "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/mahmud.png",
+        "description":"I've helped work on a new POS system PekkishPOS. PekkishPOS has a trail POS system already, but is in the process of fully upgrading the app to include more and new innovative user experiences. I am helping with the process part time",
+        "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/pekkishPOS.jpg",
         "time":"End of 2023 - Present"
     },
     {
         "name":"Disfruta",
         "description":"Disfruta is a Touring company mainly focused on Sports Tours. I've helped with loading stock on the clothing website and added new sports tours. If there is new jobs to do for them I take the opportunity, also part time.",
-        "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/mahmud.png",
+        "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/disfruta.jpeg",
         "time":"2018 - Present"
     },
     {
         "name":"Informaticos",
         "description":"Informaticos does website development for companies. I've helped in my part time with website development, and been taught how to use wordpress through them",
-        "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/mahmud.png",
+        "image":"https://aneeqbass.github.io/hostedImages_portfolio/images/informaticos_logo.jpg",
         "time":"2021 - Present"
     }
 ]
